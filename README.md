@@ -3,6 +3,9 @@
 
 Student evaluations of teaching (SET) lies at the heart of the teaching and learning experience. At many institutions, quantitative Likert-type questions attempting to measure the overall learning experience or the instructor’s overall effectiveness are used to summarize SET data for tenure and promotion. These questions lack validity and current SET methods are inherently biased [1, 2]. Qualitative SET data in the form of student comments could be immensely helpful in improving the teaching and learning experience by providing richer information as well as contextualizing the quantitative data. However, qualitative data are rarely used, because it takes substantial expertise to interpret and extract useful information [3]. Inspired by recent methodologies (see [4, 5]), we are building a tool that makes use of natural language processing and machine learning to provide semi-automated analysis of qualitative SET data. This tool will support instructors in implementing curricular change and positively contribute to student learning and success.​
 
+
+![ML in SET diagram](https://github.com/cjunkins/MLinSET/assets/91151364/cc6ab326-4d6c-48bb-8d8c-494d62f44fe9)
+
 1. Grignon, M., Kim, J., Martin, L., Knorr, K., van Lieshout, T., Bertolo, S., & Warwani, T. (2019). MUFA ad-hoc committee on student evaluation of teaching report. McMaster University Faculty Association. https://macfaculty.mcmaster.ca/app/uploads/2020/06/Report-from-MUFA-Ad-hoc-committee-on-Student-Evaluations-of-Teaching.pdf ​
 
 2. Wolfe, J. (2022, January 21).  Let’s stop relying on biased teaching evaluations. Inside Higher Ed. https://www.insidehighered.com/advice/2022/01/21/teaching-evaluations-reflect-colleges-commitment-diversity-opinion ​
